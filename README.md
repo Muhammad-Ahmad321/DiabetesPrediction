@@ -1,4 +1,4 @@
-# Diabetes Prediction App
+# Diabetes Prediction App: https://diabetes-prediction999.streamlit.app/
 
 This is a simple **Diabetes Prediction App** built using **Streamlit** and **Logistic Regression**. The app allows users to input their health data through a sidebar interface, and based on the data, it predicts whether the user is likely to have diabetes or not.
 
